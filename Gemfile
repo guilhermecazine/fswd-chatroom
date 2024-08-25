@@ -25,6 +25,7 @@ gem 'webpacker', '~> 5.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.11'
 gem 'rubygems-update', '>= 3.3.22'
+gem 'ffi', '~> 1.15'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
